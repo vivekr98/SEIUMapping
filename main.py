@@ -82,3 +82,5 @@ def update_map(selected_city):
 # Run the app
 if __name__ == '__main__':
     app.run_server(debug=False)
+
+server = app.server
