@@ -4,4 +4,4 @@ dash==2.14.2
 geopandas==0.14.2
 pandas==2.0.2
 plotly==5.18.0
-gunicorn
+gunicorn==20.1.0
